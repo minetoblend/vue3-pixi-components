@@ -67,7 +67,7 @@ import { PixiViewport } from "vue-3-pixi-components";
 </template>
 ```
 
-# Install the vite plugin
+## Install the vite plugin
 
 The vite plugin adds the ability to specify texture paths on sprites & other components that use textures, the same way as the `src` attribute on an image.
 
