@@ -117,7 +117,7 @@ The following PixiJS objects are supported out of the box:
 
 ## Props
 
-Most props will work just as the properties on the corresponding PixiJS objects. However, props that accept a `Point` are handeled a bit different. They can also be used with X/Y suffix (except for the `position` prop, which just uses the `x`/`y` props instad).
+Most props will work just as the properties on the corresponding PixiJS objects. However, props that accept a `Point` are handeled a bit different. They can also be used with X/Y suffix (except for the `position` prop, which just uses the `x`/`y` props instead).
 ```html
 <container :scale-x="10" :skew-y="0.5" />
 ```
