@@ -1,5 +1,7 @@
 # vue3-pixi-components
 
+[![npm](https://img.shields.io/npm/v/vue3-pixi-components)](https://www.npmjs.com/package/vue3-pixi-components)
+
 > Use Vue 3 to create PixiJS applications
 
 This library provides it's own vue renderer that will create PixiJS objects instead of html elments. It's still pretty early in development, but should already support a great amount of features from PixiJS.
@@ -23,6 +25,13 @@ function onClick() {
   </container>
 </template>
 ```
+
+## Demo
+
+Check out the demo project:
+
+[Demo](https://minetoblend.github.io/vue3-pixi-components-demo/) | [Source](https://github.com/minetoblend/vue3-pixi-components-demo)
+
 
 ## Install
 
